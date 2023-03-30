@@ -5,7 +5,6 @@
             <div class="card">
                 <div class="card-body">
                     <div class="row">
-
                         <div class="col">
                             <span>Pegawai</span>
                             <h3 class="card-title text-nowrap mb-1 mt-3">120</h3>
