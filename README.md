@@ -25,14 +25,8 @@
     ```bash
     php artisan migrate:fresh
     ```
-
-5. Seeding
-
-    ```bash
-    php artisan db:seed
-    ```
-
-6. Development Server
+    
+5. Development Server
 
     ```bash
     php artisan serve
