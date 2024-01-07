@@ -5,7 +5,7 @@
 1. clone repository
 
     ```bash
-    git clone https://github.com/NaufalHafizh/MultiAuth-Laravel.git
+    git clone https://github.com/NaufalHafizh/absensi-QR.git
     ```
 
 2. buat database baru
